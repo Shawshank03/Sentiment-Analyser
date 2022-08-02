@@ -15,8 +15,8 @@ Built using Python, it is a simple sentiment analyser built on the Aylien API. F
  
  ### Sample output :
  1. Neutral:
- ![](demo1.png)
+ ![](demo_1.png)
  2. Negative:
- ![](demo2.png)
+ ![](demo_2.png)
  3. Positive:
-![](demo3.png)
+![](demo_3.png)
